@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.33
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+pymysql==1.1.0 

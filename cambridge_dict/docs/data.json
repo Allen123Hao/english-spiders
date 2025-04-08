@@ -1,0 +1,162 @@
+[
+    {
+        "url": "https://dictionary.cambridge.org/dictionary/english-chinese-simplified/b-and-b",
+        "data":
+        [
+            {
+                "word": "B and B",
+                "part_of_speech": "noun",
+                "uk_pronunciation":
+                {
+                    "pron": "/ˌbiː en ˈbiː/",
+                    "audio_url": "https://dictionary.cambridge.org/media/english-chinese-simplified/uk_pron/e/epd/epd02/epd02729.mp3"
+                },
+                "us_pronunciation":
+                {
+                    "pron": "/ˌbiː en ˈbiː/",
+                    "audio_url": "https://dictionary.cambridge.org/media/english-chinese-simplified/us_pron/e/eus/eus02/eus02658.mp3"
+                },
+                "senses":
+                [
+                    {
+                        "definitions":
+                        [
+                            {
+                                "definition": "abbreviation for bed and breakfast",
+                                "def_translation": "（私人住宅或小旅馆提供的）住宿和早餐（bed and breakfast的缩写）",
+                                "level": "",
+                                "attribute": "",
+                                "examples":
+                                []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://dictionary.cambridge.org/dictionary/english-chinese-simplified/b",
+        "data":
+        [
+            {
+                "word": "B, b",
+                "part_of_speech": "noun",
+                "uk_pronunciation":
+                {
+                    "pron": "/biː/",
+                    "audio_url": "https://dictionary.cambridge.org/media/english-chinese-simplified/uk_pron/u/uka/ukazt/ukazt__003.mp3"
+                },
+                "us_pronunciation":
+                {
+                    "pron": "/biː/",
+                    "audio_url": "https://dictionary.cambridge.org/media/english-chinese-simplified/us_pron/b/b__/b____/b.mp3"
+                },
+                "senses":
+                [
+                    {
+                        "guide_word": "LETTER",
+                        "definitions":
+                        [
+                            {
+                                "definition": "the second letter of the English alphabet",
+                                "def_translation": "（英语字母表的第二个字母）",
+                                "level": "",
+                                "attribute": "[ C or U ]",
+                                "examples":
+                                []
+                            }
+                        ]
+                    },
+                    {
+                        "guide_word": "MUSIC",
+                        "definitions":
+                        [
+                            {
+                                "definition": "a note in Western music",
+                                "def_translation": "B 调，B 音",
+                                "level": "",
+                                "attribute": "[ C or U ]",
+                                "examples":
+                                [
+                                    {
+                                        "text": "Bach's Mass in B minor",
+                                        "translation": "巴赫B小调弥撒曲"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "guide_word": "MARK",
+                        "definitions":
+                        [
+                            {
+                                "definition": "a mark in an exam or for a piece of work that shows that your work is good but not excellent",
+                                "def_translation": "（学业成绩、工作表现的）良好，第二等",
+                                "level": "",
+                                "attribute": "[ C or U ]",
+                                "examples":
+                                [
+                                    {
+                                        "text": "I was a little disappointed just to be given a B, as I was hoping for an A.",
+                                        "translation": "得了“良好”我感到有点沮丧，我一直希望得“优秀”。"
+                                    },
+                                    {
+                                        "text": "I got B for physics last term.",
+                                        "translation": "上学期我的物理成绩得了“良好”。"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "word": "B, b",
+                "part_of_speech": "",
+                "senses":
+                [
+                    {
+                        "definitions":
+                        [
+                            {
+                                "definition": "written abbreviation for billion",
+                                "def_translation": "十亿（billion的缩写）",
+                                "level": "",
+                                "attribute": "",
+                                "examples":
+                                []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "word": "b.",
+                "part_of_speech": "",
+                "senses":
+                [
+                    {
+                        "definitions":
+                        [
+                            {
+                                "definition": "written abbreviation for born",
+                                "def_translation": "出生（born的缩写）",
+                                "level": "",
+                                "attribute": "",
+                                "examples":
+                                [
+                                    {
+                                        "text": "John Winston Lennon (b. 9 October 1940, Liverpool, d. 8 December 1980, New York).",
+                                        "translation": "约翰‧温斯顿‧列侬（1940年10月9日生于利物浦，1980年12月8日卒于纽约）"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
